@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zokehh" target="blank"><img src="https://img.shields.io/twitter/follow/zokehh?logo=twitter&style=for-the-badge" alt="zokehh" /></a> </p>
 
-- 🔭 I’m currently working on **Tracker App**
+- 🔭 I’m currently working on **Tindog**
 
 - 🌱 I’m currently learning **JavaScript**
 
