@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Tindog**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Async JavaScript**
 
 - 📫 How to reach me **zokehh991@gmail.com**
 
