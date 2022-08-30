@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zokehh&label=Profile%20views&color=0e75b6&style=flat" alt="zokehh" /> </p>
 
 
-- 🔭 I’m currently working on **Tindog**
+- 🔭 I’m currently working on **API's**
 
 - 🌱 I’m currently learning **Async JavaScript**
 
