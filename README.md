@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **API's**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **zokehh991@gmail.com**
 
