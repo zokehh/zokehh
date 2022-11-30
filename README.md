@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **React**
-- 💻 Learning front-end for **267** days
+- 💻 Learning front-end for **268** days
 - 📫 How to reach me **zokehh991@gmail.com**
 
 
