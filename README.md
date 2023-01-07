@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Nextjs**
-- 💻 Learning front-end for **297** days
+- 💻 Learning front-end for **298** days
 - 📫 How to reach me **zokehh991@gmail.com**
 
 
